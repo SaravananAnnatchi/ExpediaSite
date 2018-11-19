@@ -1,0 +1,8 @@
+Pages\FlightBooking.class
+Pages\FlightCheckout.class
+Pages\FlightResultPage.class
+Utilities\CommonPages.class
+Utilities\TestRunner.class
+WebDriverProvider\BaseClass.class
+Pages\FlightCheckoutReview.class
+WebDriverProvider\WebDriverClose.class
